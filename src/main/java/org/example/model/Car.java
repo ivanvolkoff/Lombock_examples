@@ -9,7 +9,7 @@ import java.util.Objects;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Car {
-    private String brand;
+    private String make;
     private String model;
     private String engineVolume;
 }
